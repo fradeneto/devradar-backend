@@ -24,7 +24,7 @@ $ cd devradar-backend
 $ yarn install
 
 # Run the app
-$ yarn start
+$ yarn server
 ```
 
 ## :memo: License
